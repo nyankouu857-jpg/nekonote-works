@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ねこのて工房</title>
+    <link>https://nyankouu857-jpg.github.io/nekonote-works/</link>
+    <description>ねこのて工房は、Claude Code を Windows で無人運用するための設定パックと、日本の制度に合わせた請求書・チェックリストなどの実務テンプレートを制作・販売しています。</description>
+    <language>ja</language>
+    <atom:link href="https://nyankouu857-jpg.github.io/nekonote-works/feed.xml" rel="self" type="application/rss+xml"/>
+  </channel>
+</rss>
